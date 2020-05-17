@@ -7,3 +7,11 @@ content-header{
     font-size: 18px;
     color: red;
 }
+
+span{
+    display: block;
+    color: blue;
+}
+.deck{
+    color: red;
+}
